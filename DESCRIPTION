@@ -1,0 +1,11 @@
+Package: CTtemplate
+Title: SCTRU SSR template generator
+Authors@R: person("Lisa", "Hopcroft", email = "Lisa.Hopcroft@phs.scot",
+  role = c("aut", "cre"))
+Maintainer: Lisa Hopcroft <Lisa.Hopcroft@phs.scot>
+Version: 0.1
+Description: Generates a project template for Clinical Trials projects at PHS/SCTRU, designed to work with RStudio menus.
+Depends: R (>= 3.1.0)
+License: CC0
+Encoding: UTF-8
+LazyData: true
