@@ -1,4 +1,5 @@
-# CTtemplate
+CTtemplate
+==========
 
 This package allows the user to initialise a project directory
 within RStudio that is compatible with the CTutils package and 
@@ -16,4 +17,12 @@ details:
 This will initiate a project, with a skeleton directory sturcture
 and some template Rmarkdown files.
 
-More documentation will follow.
+More documentation to follow.
+
+## How to install
+
+``` r
+# library(remotes)
+# remotes::install_github("LisaHopcroft/CTutils")
+library(CTtemplate)
+```
